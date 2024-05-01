@@ -8,3 +8,7 @@
 ```
 cd /Applications/wma/
 ```
+To make a list in markdown, just use a dash
+- Like this
+- [ ] a dash with square brackets adds a checkbox **(be sure to include a space between brackets)**
+- [x] square brackets with an x in them is a checked checkbox
